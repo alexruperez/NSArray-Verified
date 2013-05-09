@@ -11,3 +11,5 @@ with this method you'll not have more NSNull shit anymore.
 ```objective-c
 - (id)verifiedObjectAtIndex:(NSUInteger)index;
 ```
+
+Also check [NSDictionary+Verified](https://github.com/alexruperez/NSDictionary-Verified)!
